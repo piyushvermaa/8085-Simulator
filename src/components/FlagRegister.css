@@ -1,0 +1,62 @@
+
+.table-container {
+    margin-left: 5%;
+    max-width: 100%;
+    max-height: 1000px;
+  }
+  
+  .table-container table {
+    width: 40%;
+    margin-top: -62.4rem;
+    /* margin-bottom: 3rem; */
+    border: 2px solid black;
+    border-radius: 0.375rem;
+    background-color: #f2f2f2;
+  }
+  
+  .table-container th,
+  .table-container td {
+    border: 2px solid black;
+    padding: 0.75rem;
+  }
+  
+  .table-container th {
+    background-color: #f2f2f2;
+    color: black;
+  }
+  
+  .table-container tr {
+    color: red;
+  }
+  
+  .table-container td {
+    text-align: center;
+  }
+  
+  /* Define class names for each column value */
+  .column-S-value {
+    /* Additional styling for the S column */
+  }
+  
+  .column-Z-value {
+    /* Additional styling for the Z column */
+  }
+  .column-X-value {
+    /* Additional styling for the X column */
+  }
+  .column-AC-value {
+    /* Additional styling for the AC column */
+  }
+  
+  .column-X2-value {
+    /* Additional styling for the X2 column */
+  }
+  
+  .column-P-value {
+    /* Additional styling for the P column */
+  }
+  
+  .column-CY-value {
+    /* Additional styling for the CY column */
+  }
+  
