@@ -1,13 +1,14 @@
 
 .table-container {
-    margin-left: 5%;
+    margin-left: 8%;
     max-width: 100%;
     max-height: 1000px;
   }
   
   .table-container table {
-    width: 40%;
+    width: 44%;
     margin-top: -62.4rem;
+    margin-left: 1rem;
     /* margin-bottom: 3rem; */
     border: 2px solid black;
     border-radius: 0.375rem;

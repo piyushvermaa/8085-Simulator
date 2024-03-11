@@ -3,7 +3,7 @@ import React from 'react'
 const Displaycontainer = () => {
   return (
     <div>
-      <div className="display-helper--container flex w-[36rem] m-20 mb-0">
+      <div className="display-helper--container flex w-[36rem] mt-0 m-20 mb-0">
       <div className="display border-2 border-black">
         <input onClick={() => {}} onfocus="blur();" className="display-cell" type="text" value="" id="data-input-0" maxLength="1" />
         <input onClick={() => {}} onfocus="blur();" className="display-cell" type="text" value="" id="data-input-1" maxLength="1" />
